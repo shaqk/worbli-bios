@@ -46,8 +46,8 @@ worblim transfer eosio eostribe "500.0000 WBI" "Welcome to Worbli"
 worblim system newaccount eosio --transfer infinitybloc EOS6HXEvopfAqonoPgFnpTFKVA1Hv8ZXtmkRWbwNQL86KvmnmTtZQ --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 worblim transfer eosio infinitybloc "500.0000 WBI" "Welcome to Worbli"
 
-worblim system newaccount eosio --transfer bp.worblim EOS6zQHyKwfe1xHp7RmTTevPJiVCWCmskdopZc8P2Hoh5Jdyq6VJZ --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
-worblim transfer eosio bp.worblim "500.0000 WBI" "Welcome to Worbli"
+worblim system newaccount eosio --transfer worbli EOS6zQHyKwfe1xHp7RmTTevPJiVCWCmskdopZc8P2Hoh5Jdyq6VJZ --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
+worblim transfer eosio worbli "500.0000 WBI" "Welcome to Worbli"
 
 worblim system newaccount eosio --transfer eosrealbpcsg EOS6hamroN5qFtiQBoQcoskgsRm3Gmbfqs4jutNhyUoDXBe8afmRr --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 worblim transfer eosio eosrealbpcsg "500.0000 WBI" "Welcome to Worbli"
