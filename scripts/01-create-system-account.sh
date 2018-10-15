@@ -1,8 +1,10 @@
 #!/bin/sh
 
-worblim  create account eosio eosio.ppay EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
-worblim  create account eosio eosio.msig EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
-worblim  create account eosio eosio.saving EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
-worblim  create account eosio eosio.stake EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
-worblim  create account eosio eosio.token EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
-worblim  create account eosio eosio.usage EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
+worblim create account eosio eosio.ppay EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
+worblim create account eosio eosio.msig EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
+worblim create account eosio eosio.saving EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
+worblim create account eosio eosio.stake EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
+worblim create account eosio eosio.token EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
+worblim create account eosio eosio.usage EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
+worblim create account eosio eosio.sudo EOS6Py2d2FiwCgAHd87eZrTRbof7yv8vGtYk7WL6MnaCYJvySw8UK
+worblim push action eosio setpriv '["eosio.sudo", 1]' -p eosio@active

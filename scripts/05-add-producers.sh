@@ -17,3 +17,5 @@ worblim  push action eosio addproducer "{\"producer\":\"eostribe\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"infinitybloc\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"worbli\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosmetal\"}" -p eosio
+worblim  push action eosio addproducer "{\"producer\":\"hkeos\"}" -p eosio
+worblim  push action eosio addproducer "{\"producer\":\"eosnationftw\"}" -p eosio
