@@ -41,6 +41,8 @@ worblim system newaccount eosio --transfer hkeos EOS5Reqr6wRr8ejatbrJJvKC6SHbn92
 
 worblim system newaccount eosio --transfer eosnationftw EOS5mjZzBi2sp9eWCPvoRAY7Yhoq1GG16vjsurA6WTNFBjrnU8WYm --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
+worblim system newaccount eosio --transfer genereos EOS8XCmyd9bbJAo11Q8sQTfikowCgCBhooc2rRinSUZtAD1QKdkp5 EOS7qRksJDyxzsJLkK7ptrHXVSAyfYdTfDzSHKCD4igtqVmqk2ML9 --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
+
 
 
 
