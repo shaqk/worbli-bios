@@ -21,4 +21,5 @@ worblim  push action eosio addproducer "{\"producer\":\"hkeos\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosnationftw\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"genereos\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosrealbpcsg\"}" -p eosio
+worblim  push action eosio addproducer "{\"producer\":\"gravitypool1\"}" -p eosio
 
