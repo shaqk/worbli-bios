@@ -47,6 +47,7 @@ worblim system newaccount eosio --transfer gravitypool1 EOS6HDHDrDWuWrCyrsLNgch4
 
 worblim system newaccount eosio --transfer eosdublin EOS65aVCR1sJQuTG9mgkiWU8Ezm3foQvnta9jZKxGQ3ogHQgsHHJg EOS8CmDgMBwyWscQ8VrmGHbR2XwuWudugHeAtJrwUQZSofUtFmVaL --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
+worblim system newaccount eosio --transfer eossweden EOS73J5VGPnfUnH1JXPUo2pm4bswEPhaBjT6uwsW9R9ff4kKRkmax EOS5qvKCJmeYpZksweBpxdibGFyBoxxHdf7Bjj7ht329cD5ub8oqD --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
  
 
