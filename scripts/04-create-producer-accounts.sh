@@ -13,13 +13,13 @@ worblim system newaccount eosio --transfer eoscafeblock EOS7JxSvB8xoCULtqA4zTh9k
 
 worblim system newaccount eosio --transfer eoscannon EOS7B9jtpu6LwjWu5JvjoooSXHdVPGs7rLvXcT2KotFm4jqHfZRVp --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
-worblim system newaccount eosio --transfer eosdac EOS7ubVBWg5bR6jPYorxehZ8nvaz9Sk21TNNQn9VxRGjsZQpitbJr --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
+worblim system newaccount eosio --transfer eosdac EOS7oDZUQh2VbhfY8h2Kztd8nroCKKUpf1uQwyzdQzdHJrExiLgXA EOS7ubVBWg5bR6jPYorxehZ8nvaz9Sk21TNNQn9VxRGjsZQpitbJr --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
 worblim system newaccount eosio --transfer eosiodetroit EOS6qsFgsTKghesUDRKoHFqeMqLp1mCVYAuB3LdRdHu6s7m2L5g58 --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
 worblim system newaccount eosio --transfer eosiosg EOS7AhwG4iBuSPJNXeq21EHJwbkjBUd2DbcPMQAe3A6XhfE7mAznv --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
-worblim system newaccount eosio --transfer eosnewyorkio EOS6SBpCtCE6RhWgAt351NHFxFnuGgjZNe3z9THaF6F38vJfhwjP3 --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
+worblim system newaccount eosio --transfer eosnewyorkio EOS8eKjo33Sbgg5wAkabPdxSo4xAmUqZLfaPSBSEp7qMpMSzGBTSF EOS6SBpCtCE6RhWgAt351NHFxFnuGgjZNe3z9THaF6F38vJfhwjP3 --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
 worblim system newaccount eosio --transfer eosphere EOS8h6waXRQ9HLJb5aSJ3c5GnkejxTsiQx1dR6m9mhQHgsLQTa6ib --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
