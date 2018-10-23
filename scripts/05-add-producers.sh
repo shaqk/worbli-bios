@@ -9,7 +9,6 @@ worblim  push action eosio addproducer "{\"producer\":\"eoscannon\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosdac\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosiodetroit\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosiosg\"}" -p eosio
-worblim  push action eosio addproducer "{\"producer\":\"eosnairobi\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosnewyorkio\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosphere\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosrio\"}" -p eosio
@@ -18,10 +17,8 @@ worblim  push action eosio addproducer "{\"producer\":\"infinitybloc\"}" -p eosi
 worblim  push action eosio addproducer "{\"producer\":\"worbli\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosmetal\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"hkeos\"}" -p eosio
-worblim  push action eosio addproducer "{\"producer\":\"eosnationftw\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"genereos\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosrealbpcsg\"}" -p eosio
-worblim  push action eosio addproducer "{\"producer\":\"gravitypool1\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eosdublin\"}" -p eosio
 worblim  push action eosio addproducer "{\"producer\":\"eossweden\"}" -p eosio
 
