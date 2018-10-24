@@ -3,7 +3,7 @@
 
 worblim system newaccount eosio --transfer beyondbtc EOS5iBmBTFYcqX1zuweU15CW3iV6y54FKteVjQhoUvrfsEnqepMZ1 --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
-worblim system newaccount eosio --transfer bpfishworbli EOS7L2jqEoScMZi1jgSPyf9osSZJcH819WoErMtmzfsXjnqLQWayF --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
+worblim system newaccount eosio --transfer bpfishworbli EOS7L2jqEoScMZi1jgSPyf9osSZJcH819WoErMtmzfsXjnqLQWayF EOS8GTfTVowYpobtnn6wzjaJd1NZVexqN56iZKM49Jfv5dXhiAtLG --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
 worblim system newaccount eosio --transfer blocksmithio EOS8hbtU2ke8FJ9gkDnVWYRSxAm5RXSAsAU5bfs5cA4u6sTcMETg7 --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
